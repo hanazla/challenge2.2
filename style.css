@@ -1,0 +1,328 @@
+body {
+    font-family: Helvetica;
+}
+.bg-primary{
+    background-color: #F1F3FF !important; 
+}
+
+.nav-item .btn-success{
+    background-color: #5CB85F !important;
+    padding: 8px;
+    border: none;
+    border-radius: 2px;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 700;
+}
+
+.hero{
+    background: #F1F3FF;
+}
+
+
+.text-hero-bold,
+.text-hero-regular {
+    margin: 24px 0;
+}
+
+.text-hero-bold{
+    color: black;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+}
+
+.text-hero-regular{
+    color: black;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+}
+
+.img-car img{
+    width: 618px;
+}
+
+
+.cta .btn-success{
+    border: none;
+    background-color: #5CB85F !important;
+    border-radius: 2px;
+    padding: 8px;
+    width: 140px;
+    height: 36px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+}
+
+.text-service-bold{
+    color: black;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+}
+
+.text-service-regular{
+    color: black;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+}
+
+.text-list-regular{
+    color: black;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+}
+
+.text-service-bold,
+.text-service-regular {
+    margin: 24px 0;
+}
+
+.text-why-bold{
+    color: black;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+}
+
+.text-why-regular{
+    color: black;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+}
+
+.text-why-bold,
+.text-why-regular {
+    margin: 10px 0;
+}
+
+.card-title{
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+color: black;
+}
+
+.icon{
+    font-size: 32px;
+}
+
+.card-text{
+font-weight: 300;
+font-size: 14px;
+line-height: 20px;
+color: black;
+}
+
+.card-title,
+.card-text,
+.icon {
+    margin: 16px 0;
+}
+
+.text-testi-bold {
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+color: black;
+}
+
+.text-testi-regular{
+font-weight: 300;
+font-size: 14px;
+line-height: 20px;
+color: black;
+}
+
+.text-testi-bold,
+.text-testi-regular {
+    margin: 16px 0;
+}
+
+.testimonial {
+	padding: 80px 0;
+}
+.single-box {
+	border: none;
+	padding: 50px 30px 40px;
+	border-radius: 8px;
+	background: #F1F3FF;
+}
+.img-area {
+	margin: 45px 0 20px;
+}
+.single-box img {
+	max-width: 100px;
+	border-radius: 50%;
+	margin: 0 auto
+}
+.single-box h4 {
+	font-weight: 400;
+	margin: 0;
+	font-size: 14px;
+    line-height: 20px;
+}
+.single-box {
+	overflow: hidden
+}
+.single-box .img-area {
+	width: 30%;
+	float: left;
+	margin: 0
+}
+.single-box .content {
+	width: 70%;
+	float: left;
+	padding-left: 10px
+}
+.single-box p {
+	margin: 10px 0 25px;
+	line-height: 20px;
+    font-size: 14px;
+    font-weight: 300;
+}
+.testi-carousel-three .single-box {
+	border: 0;
+	padding: 0 50px;
+}
+.testi-carousel .owl-dots, .clients-carousel .owl-dots, .testi-carousel-three .owl-dots {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: -60px;
+	text-align: center;
+	width: 100%;
+}
+.testi-carousel .owl-dot, .clients-carousel .owl-dot, .testi-carousel-three .owl-dot {
+	width: 16px;
+	height: 16px;
+	background-color: #ddd;
+	display: inline-block;
+	margin: 0 6px;
+	text-align: center;
+	border-radius: 50%;
+}
+.testi-carousel .owl-dot.active, .clients-carousel .owl-dot.active, .testi-carousel-three .owl-dot.active {
+	background-color: #5CB85F;
+}
+@media only screen and (min-width: 360px) and (max-width: 479px) {
+	.testimonial {
+		padding: 70px 0 130px;
+	}
+}
+@media only screen and (min-width: 320px) and (max-width: 359px) {
+	.testimonial {
+		padding: 70px 0 130px;
+	}
+	.single-box {
+		padding: 50px 0 40px;
+	}
+	.single-box .img-area {
+		width: 100%;
+		float: none;
+	}
+	.single-box .content {
+		width: 100%;
+		float: none;
+	}
+}
+
+.container-lg{
+    width: 1168px;
+    height: 326px;
+    background-color: #0D28A6;
+}
+
+.display-4{
+font-weight: 700;
+font-size: 36px;
+line-height: 150%;
+}
+
+.lead{
+font-weight: 300;
+font-size: 14px;
+line-height: 20px;
+}
+
+.banner{
+    background-color: #0D28A6;
+    border-radius: 13px;
+}
+
+.banner .btn{
+    background-color: #5CB85F !important;
+    border: none;
+    font-size: 14px;
+    margin-top: 52px;
+}
+
+.lead,
+.display-4 {
+    margin: 16px 0;
+}
+
+.faq-title{
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+color: black;
+}
+
+.faq-text{
+    font-weight: 300;
+font-size: 14px;
+line-height: 20px;
+color: black;
+
+}
+
+.btn-faq {
+    border: 1px solid #D4D4D4;
+    width: 400px;
+}
+
+.form-select{
+    margin: 16px 0;
+}
+
+span .bx {
+    font-size: 24px;
+}
+
+.padding-flexible {
+    padding-left: 200px;
+    padding-right: 200px;
+  }
+
+@media only screen and (max-width: 576px){
+    .hero{
+        width: 100%;
+    }
+    .img-car img{
+        width: 100%;
+    }
+    .img-illustration img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    .text-why-bold,
+    .text-why-regular,
+    .faq-title,
+    .faq-text{
+        text-align: center;
+    }
+    .form-select{
+        width: 100%;
+    }
+    .card{
+        margin: 12px;
+    }
+}
